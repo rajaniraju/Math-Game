@@ -8,7 +8,7 @@ export default class App extends React.Component {
     return (
       <div>
         <div className="App">
-          <h1 className="operand">OPERAND</h1>
+          <h1 className="operand">Math Game</h1>
           <br />
           <Number
             secondNumber={0}
