@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.question{
+  text-align:left;
+}
+
+
+.TotalPoints{
+  text-align: right;
+  color:red;
+}
+
+
+.AnswerCheck{
+  width: 100px;
+}
